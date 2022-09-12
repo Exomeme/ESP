@@ -1,6 +1,6 @@
 ## Booting the library
 ```lua
-local espLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Sirius/request/library/esp/esp.lua'),true))()
+local espLib = loadstring(game:HttpGet(('https://raw.github.com/Exomeme/ESP/main/esp.Lua'),true))()
 ```
 ## Setting Defaults
 These settings are all set to defualt, and so are the functions
